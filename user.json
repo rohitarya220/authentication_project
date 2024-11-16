@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "b153",
+      "name": "Rohit Arya",
+      "email": "rohitarya7478@gmail.com",
+      "mobile": "08918004993",
+      "gender": "",
+      "address": "Parbelia\n11",
+      "state": "West Bengal",
+      "city": "Hijuli",
+      "postalCode": "723121",
+      "password": "123456"
+    }
+  ]
+}
